@@ -1,14 +1,3 @@
-# ai13qcm
-
-Projet AI13 de QCM des stagiaires
-
-## Membres du projet
-
-- MELIN Alexandre
-- DE TALHOUËT Maylis
-- RADJAVELOU Aroun
-- BOTTY Clément
-- TERRADE Nathan
 
 ## Installation de mysql via docker
 
